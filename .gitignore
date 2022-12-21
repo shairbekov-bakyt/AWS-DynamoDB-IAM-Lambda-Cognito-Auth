@@ -1,0 +1,6 @@
+.env
+.idea
+.terraform
+.terraform*
+terraform.tfstate*
+*.zip

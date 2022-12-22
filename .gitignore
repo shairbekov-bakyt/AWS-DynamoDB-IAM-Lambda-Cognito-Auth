@@ -3,4 +3,4 @@
 .terraform
 .terraform*
 terraform.tfstate*
-*.zip
+*.ziparchives
